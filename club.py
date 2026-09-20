@@ -1,6 +1,6 @@
 # PART 1: Ask the club member for their details
-name = input("siddhant _ rawat: ")
-club = input("orchids cricket club: ")
+name = input("enter your name ")
+club = input("enter your club ")
  
 # PART 2: Store the member's details using different data types
 member_number = 8
@@ -10,8 +10,8 @@ meeting_hours = 1.5
 is_active = True
  
 # PART 3: Print each detail along with its data )
-print"orchids_cricket_club:",type(orchids_cricket_club)
-print"member_number:",type(member_number)
+print("orchids_cricket_club:",type(club))
+print("member_number:",type(member_number))
 print("Points Earned:", type(points_earned))
 print("Event Count:", event_count, "-> type:", type(event_count))
 print("Meeting Hours:", meeting_hours, "-> type:", type(meeting_hours))
