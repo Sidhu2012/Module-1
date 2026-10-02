@@ -1,6 +1,5 @@
-# ================================
+
 # PERSONAL GOALS DISPLAY
-# ================================
 
 # ---------- PART 1: import the keyword module ----------
 import keyword
