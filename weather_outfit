@@ -1,0 +1,39 @@
+# asking todays temperature
+temperature= (int(input("enter the temperature")))
+if temperature <20:
+ print("wear a jacket")
+else :
+ print("wear a normal cloth")
+
+#wether it is raining or not
+raining=(input("it is raining or not"))
+if raining == "yes":
+ print("bring a umbrella")
+else:
+ print("not bring a umberalla")
+
+ # whether windbreakeaker is needed or not
+windspeed=(int(input("enter the wind speed")))
+
+if windspeed < 40:
+  print("it is calm today")
+  print("so no need for wind breaker")
+else:
+ print ("it is windy today")  
+ print("try to wear a windbreaker")
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
