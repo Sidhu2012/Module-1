@@ -1,0 +1,30 @@
+
+
+
+
+# 
+homework_time= (int(print("average free time getting")))
+
+
+
+# if i am how much time to do my homework
+if time for homework is time< 60:
+                                time="start it now"            
+                                print ("That is a long homework session.")
+                                print("start it right now")
+else:
+     time= "start it afterwards" 
+     print("that is a short session")
+     print("that it start after wards")
+          
+
+# ---------- PART 3: free time ----------
+# YOUR CODE HERE
+# Ask: Is there free time after homework? (yes/no)
+# If the answer is "yes", print a reminder to pick a hobby.
+# If the answer is anything else, print nothing.
+
+# ---------- PART 4: summary ----------
+print("===== DAILY PLAN =====")
+# YOUR CODE HERE
+# Print the homework minutes, the plan and the free time answer.
