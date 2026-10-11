@@ -1,0 +1,19 @@
+#smart  school day planner
+day=(input("what is a day,monday to sunday"))
+weather=(input("what is the weather, sunny/rainy"))
+homework=(input("is homework completed,yes/no"))
+
+#if it is true or false
+if day =="monday":
+    print("it is a weekday,going to school")
+elif day == "sunday":
+    print("it is a weekend")
+elif day=="friday":
+    print("it is a last weekday")
+else:
+    print("")
+#student to play outside
+if weather=="sunny" and homework=="yes":
+    print("go to play")
+                
+                 
