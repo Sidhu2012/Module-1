@@ -1,0 +1,7 @@
+#membership operators
+print("three subject marks")
+avg=78
+if avg in range (91,101):
+    print("grade A")
+elif avg in range(71,91):
+    print("grade B")
