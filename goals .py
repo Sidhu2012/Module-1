@@ -3,7 +3,7 @@
 
 # ---------- PART 1: import the keyword module ----------
 import keyword
-print("keyword.kwilist")
+
 # ---------- PART 2: ask the three questions ------ 
 print("my name is siddhant rawat")
 print("i want to learn coding")
